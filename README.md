@@ -1,3 +1,3 @@
 # project-delma
-this is my repository srajan  gupta
+this is my repository  
 author - srajan gupta
